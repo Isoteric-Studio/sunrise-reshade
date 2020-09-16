@@ -1,4 +1,4 @@
-# Sunrise ReShade v1.2 for S.T.A.L.K.E.R.:~~New Spaces~~ Call Of Pripyat by BratNazavr
+## Sunrise ReShade v1.2 for S.T.A.L.K.E.R.:~~New Spaces~~ Call Of Pripyat by BratNazavr
 
 ## Установка:
 1. В папке "Effects" находятся эффекты, необходимые для работы решейда, поэтому они обязательны к установке
@@ -46,9 +46,9 @@
 - SweetFX_settings.txt
 
 ## Minimum System Requirements:
-Pentium Dual-Core CPU E5300 @ 2,60GHz
-RAM 3.4 Gb
-ATI Radeon HD 4600 Series (512Mb)
+- Pentium Dual-Core CPU E5300 @ 2,60GHz
+- RAM 3.4 Gb
+- ATI Radeon HD 4600 Series (512Mb)
 
 If you will use this ReShade in your mods, then indicate the author.
 Thank you for attention.
