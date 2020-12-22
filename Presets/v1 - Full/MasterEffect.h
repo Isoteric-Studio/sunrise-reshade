@@ -2,7 +2,7 @@
 // ReShade effect file
 // for S.T.A.L.K.E.R.: Call of Pripyat
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// Sunrise ReShade v1.2 by BratNazavr
+// Sunrise ReShade v1.3b preset by BratNazavr
 // Isoteric Studio
 // Continuation of MasterEffect 1.6.1
 // Copyright © 2016 Bizick
